@@ -22,6 +22,6 @@
 |   퀴즈  |   퀴즈  |   퀴즈  |
 
 
-[r프로세스]: https://github.com/binz1215/
-[r프로세스API]: https://github.com/binz1215/
-[r제한적]: https://github.com/binz1215/
+[r프로세스]: https://github.com/binz1215/42_Study_OperatingSystem/tree/main/docs/04_프로세스_개념
+[r프로세스API]: https://github.com/binz1215/42_Study_OperatingSystem/tree/main/docs/05_프로세스_API
+[r제한적]: https://github.com/binz1215/42_Study_OperatingSystem/tree/main/docs/06_제한적_직접_실행
