@@ -4,6 +4,8 @@
 ## 📖 교재
 [운영체제 아주 쉬운 세 가지 이야기 (Operating Systems: Three Easy Pieces)](https://github.com/remzi-arpacidusseau/ostep-translations/blob/master/korean/README.md)
 
+![Screenshot of OSTEP_BOOK](OSTEP_img.png)
+
 ## 🔖 참고링크
 [카이스트 PPT 및 강의 영상(영어)](https://oslab.kaist.ac.kr/ostepslides/)
 
@@ -22,6 +24,6 @@
 |   퀴즈  |   퀴즈  |   퀴즈  |
 
 
-[r프로세스]: https://github.com/binz1215/42_Study_OperatingSystem/tree/main/docs/04_프로세스_개념
-[r프로세스API]: https://github.com/binz1215/42_Study_OperatingSystem/tree/main/docs/05_프로세스_API
-[r제한적]: https://github.com/binz1215/42_Study_OperatingSystem/tree/main/docs/06_제한적_직접_실행
+[r프로세스]: docs/04_프로세스_개념
+[r프로세스API]: docs/05_프로세스_API
+[r제한적]: docs/06_제한적_직접_실행
