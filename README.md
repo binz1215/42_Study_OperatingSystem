@@ -1,5 +1,12 @@
 # 🖥️ 42_Study_OperatingSystem
 
+# <span style="color:red"> __지각자 명단__ </span>
+<span style="font-size: 30px; color: yellow"> 김동휘 </span> (7/3)  
+<span style="font-size: 30px; color: yellow"> 오언서 </span> (7/3) 
+
+위 두 사람은 7/3일 스터디 마감일에 지각하였기에, 일주일간 불명예 전당에 이름을 올려드리겠습니다.  
+다만, 아직 스터디 운영이 미흡한 점과, 두 사람 모두 2/3 이상을 하였음을 고려하여 강제 퇴장 카운트는 하지 않도록 하겠습니다.  
+7/4일 오전 6시 이전까지 push를 완료해 주신다면 이름을 내리도록 하겠습니다! 화이팅!! \* ^ - ^ \*
  
 ## 📖 교재
 [운영체제 아주 쉬운 세 가지 이야기 (Operating Systems: Three Easy Pieces)](https://github.com/remzi-arpacidusseau/ostep-translations/blob/master/korean/README.md)
