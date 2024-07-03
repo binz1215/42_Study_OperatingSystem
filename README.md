@@ -1,6 +1,7 @@
 # 🖥️ 42_Study_OperatingSystem
 
 # <span style="color:red"> __지각자 명단__ </span>
+<p>$\huge{\rm{\color{#5ad7b7}큰글씨\ 로만체\ 초록색}}$</p>
 <span style="font-size: 30px; color: yellow"> 김동휘 </span> (7/3)  
 <span style="font-size: 30px; color: yellow"> 오언서 </span> (7/3) 
 
