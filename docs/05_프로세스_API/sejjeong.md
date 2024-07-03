@@ -19,7 +19,7 @@
     - 자식 프로세스가 받는 fork의 return 값 → 0
     - 부모와 자식 프로세스가 서로 다른 코드를 실행하기 편함
 
-![fork이후.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/458b7604-6670-43be-ab36-f842f03c3259/9ecfe537-f96d-4bc0-b173-7262e4cef504/3281ba26-5cef-40fb-bb11-c48ceecdc2c7.png)
+![fork이후.jpg](docs\05_프로세스_API\fork이후.jpg.png)
 
 - fork 이후 무엇부터 실행할까?
     - CPU 스케줄러가 선택한다.

@@ -46,11 +46,11 @@ RAM과 레지스터가 중요하다. 프로그램을 실행하기 위해 읽고 
 
 - 참고 : 프로세스 메모리 구조
     
-    ![프로세스_메모리구조.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/458b7604-6670-43be-ab36-f842f03c3259/bab4545c-68bc-4019-a1d2-52be179d260d/42f52d65-11d1-42df-9921-364769c27997.png)
+    ![프로세스_메모리구조.jpg](docs\04_프로세스_개념\프로세스_메모리구조.jpg.png)
     
 - 참고 : CPU 명령어 사이클
     
-    ![CPU명령어사이클.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/458b7604-6670-43be-ab36-f842f03c3259/e1f40012-f3d9-4024-b970-d59346d3a4c2/f147e0d8-f12c-413b-8ca6-d0311312ca8e.png)
+    ![CPU명령어사이클.jpg](docs\04_프로세스_개념\CPU명령어사이클.jpg.png)
     
 
 23 45 FF A9
