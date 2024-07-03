@@ -1,9 +1,9 @@
 # 🖥️ 42_Study_OperatingSystem
 
-# <span style="color:red"> __지각자 명단__ </span>
-<p>$\huge{\rm{\color{#5ad7b7}큰글씨\ 로만체\ 초록색}}$</p>
-<span style="font-size: 30px; color: yellow"> 김동휘 </span> (7/3)  
-<span style="font-size: 30px; color: yellow"> 오언서 </span> (7/3) 
+<h1>$\Huge{\color{#FF0062} 지각자 명단 }$</h1>
+
+<h2>$\Huge{\rm{\color{#5ad7b7} 김동휘 }}$</h2>
+<h2>$\LARGE{\rm{\color{#5ad7b7} 오언서 }}$</h2>
 
 위 두 사람은 7/3일 스터디 마감일에 지각하였기에, 일주일간 불명예 전당에 이름을 올려드리겠습니다.  
 다만, 아직 스터디 운영이 미흡한 점과, 두 사람 모두 2/3 이상을 하였음을 고려하여 강제 퇴장 카운트는 하지 않도록 하겠습니다.  
