@@ -1,10 +1,13 @@
 # 🖥️ 42_Study_OperatingSystem
 
+<h1>$\Huge{\color{#FF0062} 지각자 명단 }$</h1>
+
+다들 수고 많으셧슴니당~!~!
  
 ## 📖 교재
 [운영체제 아주 쉬운 세 가지 이야기 (Operating Systems: Three Easy Pieces)](https://github.com/remzi-arpacidusseau/ostep-translations/blob/master/korean/README.md)
 
-![Screenshot of OSTEP_BOOK](OSTEP_img.png)
+![Screenshot of OSTEP_BOOK](scrs/OSTEP_img.png)
 
 ## 🔖 참고링크
 [카이스트 PPT 및 강의 영상(영어)](https://oslab.kaist.ac.kr/ostepslides/)
