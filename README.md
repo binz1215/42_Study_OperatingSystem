@@ -1,10 +1,11 @@
 # 🖥️ 42_Study_OperatingSystem
 
-$\Huge{\color{#FF0062} 지각자 명단}$
+<h1>$\Huge{\color{#FF0062} 지각자 명단}$</h1>
 
 <h1>$\Huge{\color{#FF0} 이혜빈(12:01)}$</h1>
 <br/>
-$\Huge{\color{#FF0} 서진권(12:04)}$
+
+<h1>$\Huge{\color{#FF0} 서진권(12:04)}$</h1>
 
  
 ## 📖 교재
