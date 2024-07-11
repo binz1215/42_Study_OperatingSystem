@@ -1,7 +1,7 @@
 # 🖥️ 42_Study_OperatingSystem
 
 <h1>$\Huge{\color{#FF0062} ~7/17 범위}$</h1>
-$\Huge{\color{#FF0} 9,10장}$
+<h3>$\Huge{\color{#FF0} 9,10장}$</h3>
 
 <h1>$\Huge{\color{#FF0062} 지각자 명단}$</h1>
 
