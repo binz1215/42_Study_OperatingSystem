@@ -1,5 +1,8 @@
 # 🖥️ 42_Study_OperatingSystem
 
+<h1>$\Huge{\color{#FF0062} ~7/17 범위}$</h1>
+$\Huge{\color{#FF0} 9,10장}$
+
 <h1>$\Huge{\color{#FF0062} 지각자 명단}$</h1>
 
 <h1>$\Huge{\color{#FF0} 이혜빈(12:01)}$</h1>
