@@ -3,6 +3,9 @@
 <h1>$\Huge{\color{#FF0062} ~7/17 범위}$</h1>
 <h3>$\Huge{\color{#FF0} 9,10장}$</h3>
 
+<h1>$\Huge{\color{#FF0000} 공지}$</h1>
+<h3>$\Huge{\color{#FF00ff} ‼업데이트_있음_동기화_필수 }$</h3>
+
 <h1>$\Huge{\color{#FF0062} 지각자 명단}$</h1>
 
 <h1>$\Huge{\color{#FF0} 이혜빈(12:01)}$</h1>
