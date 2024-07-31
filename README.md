@@ -7,8 +7,6 @@
 
 <h1>$\Huge{\color{#FF0062} 지각자\,명단}$</h1>
 <h1>$\Huge{\color{#FF0000} 서진권\,\color{#FFFF00}이혜빈\,\color{#00FF00}오언서}$</h1>
-<h1>$\Huge{\color{#FF0062} 이혜빈}$</h1>
-<h1>$\Huge{\color{#FF0062} 오언서}$</h1>
 
 <br/>
 
