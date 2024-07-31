@@ -6,7 +6,7 @@
 <h3>$\Huge{\color{#FF00ff} 빨간불이\,꺼질\,때까지\,당분간\,범위를\,줄이겠습니다. }$</h3>
 
 <h1>$\Huge{\color{#FF0062} 지각자\,명단}$</h1>
-<h1>$\Huge{\color{#FF0062} 서진권}$</h1>
+<h1>$\Huge{\color{#FF0000} 서진권\,\color{#FFFF00}이혜빈\,\color{#00FF00}오언서}$</h1>
 <h1>$\Huge{\color{#FF0062} 이혜빈}$</h1>
 <h1>$\Huge{\color{#FF0062} 오언서}$</h1>
 
