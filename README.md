@@ -27,8 +27,8 @@
 
 ---
 <h1>$\Huge{\color{#FF0000} 불명예전당}$</h1>
-<br/> <br/> <br/> <br/> <br/> <br/> 
 
+<br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 ---
 <h1>$\Huge{\color{#FF0062} 지각자\,명단}$</h1>
